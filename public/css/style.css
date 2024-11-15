@@ -10,6 +10,44 @@ html {
     color: #151515
 }
 
+body{
+    background-color:rgba(255, 228, 196, 0.5);
+}
+
+container {
+    margin: 2rem auto;
+    width: 75%;
+}
+
+.form-container {
+    width: 75%;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+form {
+    width: 75% ;
+    margin: 0 auto;
+}
+
+.result-container {
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 250px;
+    border-radius: 5px;
+}
+
 .movie-card {
     display: inline;
     display:inline;
@@ -151,3 +189,4 @@ footer ul li a {
     text-decoration: none;
     color: #777;
 } 
+
