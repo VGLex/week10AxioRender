@@ -166,6 +166,12 @@ img {
     justify-content: center;
 }
 
+.chat-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
 footer {
     margin-top: 1rem;
     text-align: center;
