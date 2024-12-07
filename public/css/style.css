@@ -129,10 +129,10 @@ img {
 }
 
 .movie-info-overview {
+    display: flex;
     font-size: 1.2rem;
     font-style: italic;
-
-
+    width: 90%;
 }
 
 .movie-info-actions {
@@ -168,7 +168,7 @@ img {
 }
 
 .chat-container {
-    position: absolute;
+    position:fixed;
     bottom: 0;
     right: 0;
 }
